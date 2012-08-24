@@ -109,7 +109,7 @@ BOARD_FLASH_BLOCK_SIZE := 131072
 
 # Recovery
 TARGET_USERIMAGES_USE_EXT4 := true
-BOARD_HAS_NO_SELECT_BUTTON := true
+BOARD_HAS_NO_SELECT_BUTTON := false
 BOARD_CUSTOM_BOOTIMG_MK := device/samsung/venturi_usa/shbootimg.mk
 TARGET_RECOVERY_PRE_COMMAND := "echo 1 > /cache/.startrecovery; sync;"
 TARGET_OTA_ASSERT_DEVICE := venturi_usa,YP-G70
