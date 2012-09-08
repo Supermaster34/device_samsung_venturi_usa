@@ -35,7 +35,7 @@
 <StorageList xmlns:android="http://schemas.android.com/apk/res/android">
 
     <storage android:mountPoint="/mnt/sdcard"
-             android:storageDescription="@string/storage_internal"
+             android:storageDescription="@string/storage_usb"
              android:primary="true"
 	     android:emulated="true"
              android:allowMassStorage="true"
