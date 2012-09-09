@@ -22,7 +22,7 @@ PRODUCT_MANUFACTURER := Samsung
 PRODUCT_MODEL := YP-G70
 
 # Release name and versioning
-PRODUCT_RELEASE_NAME := GalaxyPlayer
+PRODUCT_RELEASE_NAME := GalaxyPlayer5
 
 # Boot animation
 TARGET_BOOTANIMATION_NAME := vertical-480x800
