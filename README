@@ -1,6 +1,6 @@
 WIP 
 
 Things that don't work:
-Camera 
-HW accel
+Camera - Camera HAL now loads but gralloc buffer cannot be dequeued
+HW accel - libhwcomposer.board.so is missing
 Apps2SD
